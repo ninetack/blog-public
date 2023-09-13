@@ -1,0 +1,53 @@
+In September, Apple is widely expected to reveal its iPhone 15 lineup of flagship smartphones. Like last year, 2023’s range is expected to consist of four models: the base iPhone 15, an iPhone 15 Max, an iPhone 15 Pro, and an iPhone 15 Pro Max. There’s a chance that the latter device might be branded as the iPhone 15 Ultra, although a more recent report suggests this branding might not be used until 2024.
+2023 is shaping up to be an interesting year for Apple’s bestselling device. Rumors suggest the company could finally make the switch from Lightning to USB-C while the Dynamic Island, which was exclusive to the Pro models in 2022, might trickle down to the non-Pro iPhone 15 and iPhone 15 Max.
+Read on for all our coverage of the latest leaks and rumors about this year’s iPhones.
+
+
+The iPhone 15 might be a little dull on the outside:
+We could be in for a muted iPhone color selection this year. YouTuber Jon Rettinger has gotten his hands on dummy units in what appear to be the iPhone 15 and 15 Pro’s launch colors. Those are black, white, light blue, light yellow, and a soft pink for the 15, while the 15 Pro could come in blue, dark gray, light gray, and white.
+
+
+Pastel iPhones, titanium frames, and production issues, oh my:
+This post on X (formerly Twitter) could show the colors for the standard iPhone 15 — at least, Apple analyst Ming-Chi Kuo lists similar colors in a blog post on Medium.
+Kuo also corroborates the oft-rumored titanium frame for the 15 Pro phones, which may have contributed to production issues. He also mentions a possible iPhone 15 Pro gray color, which has been rumored recently.
+
+
+This might be the iPhone 15’s USB-C port:
+Apple said last year it will bring USB-C to the iPhone, and now alleged pictures of the iPhone 15’s USB-C port hint at light blue and green colors for Apple’s new non-Pro phones, according to leaker Majin Bu (via AppleInsider). The images, which were shared on X (formerly Twitter) this morning, show three naked USB-C modules in the two colors, as well as a dark, black shade. In addition, Majin Bu shared pictures of somewhat crude mock-ups of the phone, including one with an apparently off-center hole for the USB-C port.
+Majin Bu later clarified that the existence of a green USB-C port doesn’t mean there will actually be a green iPhone at launch, guessing Apple will release it in the spring, something the company’s done with lighter colors for a few years now. 
+
+
+No gold — but maybe gray:
+9to5Mac reports that the iPhone 15 Pro won’t come in a gold option. Instead, the publication says you can expect space black, silver, a new gray that “embraces the natural color of titanium,” and a dark blue. There apparently won’t be a red.
+Update August 24th, 6:07PM ET: 9to5Mac posted images of what appears to be the new “Titan Gray” color for the iPhone 15 Pro. I think it looks really nice.
+9to5Mac expects the iPhone 15 non-Pro to come in black, green, blue, yellow, and pink.
+
+
+More evidence points toward an action button on the iPhone 15 Pro:
+As spotted by 9to5Mac, the iOS 17 beta 7 has a new haptic feedback pattern that makes the “phone vibrate more prominently” to signal when silent mode is on or off.
+That would make sense if Apple ends up replacing the mute switch with a solid-state action button, as the vibration could help users determine which mode it's in.
+
+
+The iPhone 15 might have faster charging speeds:
+Apple is set to introduce the iPhone 15 in the next few weeks, and the device’s long-rumored transition from Lightning to USB-C may provide a boost to its charging speed. According to 9to5Mac, some of the new iPhone 15 models will support charging up to 35W, compared to the 27W speeds that the current iPhone 14 Pro is limited to.
+Apple analyst Ming-Chi Kuo made similar predictions last year, claiming that Apple’s supply chain indicated the company would ditch Lightning in favor of USB-C in 2023. According to Kuo, the switch would enable faster charging speeds for iPhone 15 Pro models, but the feature may only be supported via Apple-certified cables. Apple stopped bundling its iPhones with power adapters back in 2020 to try and combat e-waste, so the company may instead recommend that customers purchase the 35W dual USB-C charger it released last year, or the 30W USB-C charger that’s designed for the MacBook Air if it isn’t planning to sell a dedicated iPhone 15 charger.
+
+
+Inside the arrangement that helps Apple keep its edge in chips:
+The Information reports that in Apple's deal with TSMC, the costs of defective chips are eaten by the chip manufacturer instead of Apple, its biggest customer. It's a boon to Apple over competitions as it moves forward using new 3nm technology that has lower production yields.
+Apple’s also paying more than ever for the chips. That might be why there’s a continued split on new iPhones, with the top chips going to the most expensive models.
+
+
+iPhone 15 Pro might get a titanium frame, thinner bezels, and a price hike:
+Some big changes are expected to come to this year’s iPhone 15 Pro lineup — but they might come alongside a price hike, too. In Bloomberg this morning, reporter Mark Gurman confirmed a handful of details that have been floating around all year about what to expect when the next iPhone lineup is announced in just over a month.
+The new Pro models will both come with titanium frames, instead of stainless steel, making them stronger and lighter, according to Gurman. Their screens will also have thinner bezels, thanks to a new display technology, shrinking the size of the black border by about a third. (Earlier leaks show what that might look like.) And as previously reported, expect the mute switch to be swapped out for a customizable button and the Lightning port to be replaced by USB-C.
+
+
+The iPhone 15 Pro’s rumored action button sounds pretty useful:
+The upcoming iPhone 15 Pro and Pro Max are expected to come with an action button — similar to the one on the Apple Watch Ultra — that replaces the device’s ring/silent switch. But now, we have a better idea of what it might be able to do.
+As spotted by MacRumors, code in the iOS 17 beta 4 suggests you can program nine different functions into the action button, potentially allowing you to quickly access the Camera app, turn on the flashlight, launch the Translate app, and more.
+
+
+Apple’s iPhone 15 Pro and Pro Max models could be more expensive:
+According to a new report by Bloomberg, Apple is allegedly planning to hike the price of its upcoming iPhone 15 Pro and Pro Max models in a bid to increase revenue during a projected slump in smartphone sales.
+The publication claims that Apple has a target to produce around 85 million iPhone 15 units this year, which isn’t far off the 90 million iPhone 14 units the company is said to have requested from its suppliers last year. Essentially, Apple is hoping it can produce a similar number of devices but keep its revenue high (in spite of things like ongoing inflation and lower demand for consumer tech) by increasing the price of its more expensive iPhone models, according to “people familiar with the matter.”
